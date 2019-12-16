@@ -1,6 +1,9 @@
 {
   "name": "no-bless-bot",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "discord.js": "github:discordjs/discord.js"
   }
